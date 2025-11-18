@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf6969e4-4165-4eb9-aff3-0d2c72859c79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/axios.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/AuthContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/useAuth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/AppNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/AuthNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/BarberStack.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/BarbershopStack.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/ClientNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/ClientStack.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AppointmentCreateScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AppointmentsListScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AppointmentsModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/BarbershopDetailScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/HomeBarberScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/HomeBarbershopScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/HomeClientScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/LoginScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ProfileScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/RegisterScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SchedulesScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ServicesScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/appointments.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/barbers.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/barbershops.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/clients.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/schedules.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/services.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/typography.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/appointment.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/auth.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/barber.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/barbershop.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/client.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/schedule.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/service.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/dateUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/errorHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35D1j6ThfZ7AIK8BQ3hvEs8HiJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/KALETH/OneDrive/Documents/programacion-mobile-trabajos/Semana-10/programacion-movil-2025-b-g1/10-week/fadeapp-frontend/fadeapp-frontend",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "device.mirroring"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf6969e4-4165-4eb9-aff3-0d2c72859c79" name="Changes" comment="" />
+      <created>1762629960555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762629960555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
